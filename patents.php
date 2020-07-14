@@ -1,0 +1,278 @@
+<?php 
+    include 'head.php';
+?>
+
+
+    <!-- Page header -->
+    <div class="elh-page-header elh-img-bg elh-bg-patents">
+        <div class="elh-overlay">
+            <div class="container text-center">
+                <h3 class="elh-page-title">Patents</h3>
+                <ol class="breadcrumb">
+                    <li><a href="index.html">Home</a></li>
+                    <li class="active">Patents</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <!-- Page header End -->
+
+    <!-- Main wrapper start -->
+    <div class="elh-main-wrap">
+
+        <!-- Blog Style 3 -->
+        <div class="elh-section elh-section-padding elh-bottom-0">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="elh-event-single">
+                            <article class="elh-post style-4">
+                              
+                                <div class="elh-post-body">
+                                    <div class="elh-post-entry">
+                                        <h3>CIS PATENTS</h3>
+                                        <br>
+
+                                        <p>This is a partial list of patents (relating to cryptography and information security) that include members of the Cryptography and Information Security Group of <a href="http://web.mit.edu/" target="_blanck">MIT</a>'s <a href="http://www.lcs.mit.edu/" target="_blanck">Laboratory for Computer Science</a> as inventors.</p>
+
+                                        <p>These patents, or the inventions on which they are based, were developed while at least one of the inventors was a member of the CIS group. This list attempts to be comprehensive, and includes patents that were developed independently of MIT, the CIS group, or the Laboratory for Computer Science, such as patents that were developed in a consulting relationship. Contact the assignee (or inventor, if no assignee) for further information. Patents are listed in reverse chronological order:</p>
+
+                                        <p>CIS members: Please add your patents here!</p>
+                                        
+                                        <p>We can't help but give a link here to the wonderful <a href="http://www.patents.ibm.com/" target="_blanck">IBM Patent Server</a>. (Thanks, IBM!)</p>
+
+                                    <div id="wrapper">
+                                        <div class="contents">
+                                        
+                                        <p><a href="http://www.patents.ibm.com/details?patent_number=6269163" target="_blanck">6269163</a> (7/31/2001; Rivest, Robshaw, Sidney, Yin)<br>Enhanced block ciphers with data-dependent rotations.</p>
+
+                                        <p><a href="http://www.patents.ibm.com/details?patent_number=5835600" target="_blanck">5835600</a> (11/20/1998; Rivest)<br>Block encryption algorithm with data-dependent rotations.</p>
+
+                                        <p><a href="http://www.patents.ibm.com/details?patent_number=5812670" target="_blanck">5812670</a> (9/22/1998; Micali)<br>Traceable anonymous transactions.</p>
+
+                                        <p><a href="http://www.patents.ibm.com/details?patent_number=5793868" target="_blanck">5793868</a> (8/11/1998; Micali)<br>Certificate revocation system.</p>
+
+                                        <p><a href="http://www.patents.ibm.com/details?patent_number=5790665" target="_blanck">5790665</a> (8/4/1998; Micali)<br>Anonymous information retrieval system (ARS).</p>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5768388" target="_blanck">5768388</a> (6/16/1998; Goldwasser, Bellare)<br>
+                                        Time delayed key escrow.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5724428" target="_blanck">5724428</a> (3/3/1998; Rivest)<br>
+                                        Block encryption algorithm with data-dependent rotations.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5717759" target="_blanck">5717759</a> (2/10/1998; Micali)<br>
+                                        Method for certifying public keys in a digital signature scheme.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5717757" target="_blanck">5717757</a> (2/10/1998; Micali)<br>
+                                        Certificate issue lists.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5666420" target="_blanck">5666420</a> (9/9/1997; Micali)<br>
+                                        Simultaneous electronic transactions.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5666416" target="_blanck">5666416</a> (9/9/1997; Micali)<br>
+                                        Certificate revocation system.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5666414" target="_blanck">5666413</a> (9/9/1997; Micali)<br>
+                                        Guaranteed partial key-escrow.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5647000" target="_blanck">5647000</a> (7/8/1997; Leighton)<br>
+                                        Failsafe key escrow system.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5638447" target="_blanck">5638447</a> (6/10/1997; Micali)<br>
+                                        Compact digital signatures.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5629982" target="_blanck">5629982</a> (5/13/1997; Micali)<br>
+                                        Simultaneous electronic transactions with visible trusted parties.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5625692" target="_blanck">5625692</a> (3/29/1997; Herzberg, Jarecki, Krawczyk, Yung)<br>
+                                        Method and system for a public key cryptosystem having proactive, robust, and recoverable distributed threshold secret sharing.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5615269" target="_blanck">5615269</a> (3/25/1997; Micali)<br>
+                                        Ideal electronic negotiations.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5610982" target="_blanck">5610982</a> (3/11/1997; Micali)<br>
+                                        Compact certification with threshold signatures.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5604804" target="_blanck">5604804</a> (2/18/1997; Micali)<br>
+                                        Method for certifying public keys in a digital signature scheme.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5553145" target="_blanck">5553145</a> (9/3/1996; Micali)<br>
+                                        Simultaneous electronic transactions with visible trusted parties.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5537475" target="_blanck">5537475</a> (7/16/1996; Micali)<br>
+                                        Efficient digital signature algorithm and use thereof technical field.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5519778" target="_blanck">5519778</a> (5/21/1996; Leighton, Micali)<br>
+                                        Method for enabling users of a cryptosystem to generate and use a private pair key for enciphering communications between the users.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5499296" target="_blanck">5499296</a> (3/12/1996; Micali)<br>
+                                        Natural input encryption and method of use.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5432852" target="_blanck">5432852</a> (7/11/1995; Leighton, Micali)<br>
+                                        Large provably fast and secure digital signature schemes based on secure hash functions.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5420927" target="_blanck">5420927</a> (5/30/1995; Micali)<br>
+                                        Method for certifying public keys in a digital signature scheme.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5351302" target="_blanck">5351302</a> (9/27/1994; Micali)<br>
+                                        Method for authenticating objects identified by images or other identifying information.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5315658" target="_blanck">5315658</a> (5/24/1994; Micali)<br>
+                                        Fair cryptosystems and methods of use.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5276737" target="_blanck">5276737</a> (1/4/1994; Micali) (Reissued 5/26/1998 as: RE35808)
+                                        Fair cryptosystems and methods of use.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5144667" target="_blanck">5144667</a> (9/1/1992; Pogue, Rivest)<br>
+                                        Method of secure remote access.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=5016274" target="_blanck">5016274</a> (5/14/1991; Micali, Goldreich, Even)<br>
+                                        On-line/off-line digital signing.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=4995081" target="_blanck">4995081</a> (2/19/1991; Leighton, Micali)<br>
+                                        Method and system for personal identification using proofs of legitimacy.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=4944009" target="_blanck">4944009</a> (7/24/1990; Micali, Schnorr)<br>
+                                        Pseudo-random sequence generator.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=4926479" target="_blanck">4926479</a> (5/15/1990; Goldwasser, Kilian, Wigderson, Ben-Or)<br>
+                                        Multiprover interactive verification system.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=4879747" target="_blanck">4879747</a> (11/7/1989; Leighton, Micali)<br>
+                                        Method and system for personal identification.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=4691299" target="_blanck">4691299</a> (9/1/1987; Rivest, Shamir)<br>
+                                        Method and apparatus for reusing non-erasable memory media.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=4405829" target="_blanck">4405829</a> (9/20/1983; Rivest, Shamir, Adleman)<br>
+                                        Cryptographic communications system and method.</P>
+
+                                        <P><a href="http://www.patents.ibm.com/details?patent_number=4376299" target="_blanck">4376299</a> (3/8/1983; Rivest)<br>
+                                        Data center for remote postage meter recharging system having physically secure encrypting apparatus and employing encrypted seed number signals.</P>
+                                    </div>
+                                </div>
+                                    </div>
+                                                                    
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Blog Style 3 End -->
+    </div>
+    <!-- Main wrapper start end -->
+
+    <footer>
+        <div class="elh-footer-widget-area">
+            <div class="container">
+                <div class="row">
+                    <div class="elh-footer-widgets">
+                        <div class="col-md-4 col-xs-6">
+                            <aside class="widget about_widget">
+                                <a class="footer-logo" href="#">
+                                    <img src="images/logo-2C-notext.svg" width="150px" alt="Logo">
+                                </a>
+                                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p> -->
+                                <div class="clearfix"></div>
+                                <div class="socials">
+                                    <a href="https://www.facebook.com/MITCSAIL/" target="_blanck"><i class="fa fa-facebook"></i></a>
+                                    <a href="https://twitter.com/MIT_CSAIL" target="_blanck"><i class="fa fa-twitter"></i></a>
+                                    <a href="https://www.instagram.com/mit_csail/" target="_blanck"><i class="fa fa-instagram"></i></a>
+                                    <!-- <a href="#"><i class="fa fa-linkedin"></i></a> -->
+                                    <a href="https://www.youtube.com/user/MITCSAIL" target="_blanck"><i class="fa fa-youtube"></i></a>
+                                </div>
+                            </aside>
+                        </div>
+                        <div class="col-md-4 col-xs-6">
+                             <div class="widget widget_contact_info">
+                                <h3 class="widget-title">Contact Us</h3>
+                                <div class="contact_info">
+                                     <p class="contact-info-item">
+                                        <i class="fa fa-map-marker"></i>
+                                        <span class="contact_info">Massachusetts Institute of Technology <br> Computer Science & Artificial ntelligence Laboratory <br> 32 Vassar St, Cambridge MA 02139</span>
+                                    </p>
+                                    <p class="contact-info-item">
+                                        <i class="fa fa-phone"></i>
+                                        <span class="contact_info">+1 617-253-5851</span>
+                                    </p>
+                                    <p class="contact-info-item">
+                                        <i class="fa fa-envelope-o"></i>
+                                        <span class="contact_info">webmaster@csail.mit.edu</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-xs-6">
+                            <div class="widget widget_custom-menu">
+                                <h3 class="widget-title">Quick Links</h3>
+                                <ul class="custom-menu">
+                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="cisSeminar.html">CIS Seminar</a></li>
+                                    <li><a href="cisCourses.html">CIS Courses</a></li>
+                                    <li><a href="members.html">Members</a></li>
+                                    <li><a href="patents.html">Patents</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-md-2 col-xs-6">
+                            <div class="widget widget_custom-menu">
+                                <h3 class="widget-title" style="visibility: hidden;">Quick Links</h3>
+                                <ul class="custom-menu">
+                                    <li><a href="circularSecurity.html">Research Projects</a></li>
+                                    <li><a href="software.html">Software</a></li>
+                                    <li><a href="thesis.html">Thesis</a></li>
+                                    <li><a href="contact.html">Contact</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="elh-footer-lower-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-xs-12 text-center">
+                        <p class="copyright xs-text-center">Copyright 2019. All Rights Reserved.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Script -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/visible.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/slick.min.js"></script>
+    <script src="assets/js/plyr.js"></script>
+    <script src="assets/js/jquery.countTo.js"></script>
+    <script src="assets/js/jquery.countdown.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/jquery.ajaxchimp.min.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAmiJjq5DIg_K9fv6RE72OY__p9jz0YTMI"></script>
+    <script src="js/map.js"></script>
+    <script src="js/pagination.js"></script>
+    <script>
+        $(document).ready(function()
+         {
+           $("#tab").pagination({
+           items: 20,
+           contents: 'contents',
+           previous: 'Previous',
+           next: 'Next',
+           position: 'bottom',
+           });
+        });
+</script>
+</body>
+
+</html>
