@@ -40,6 +40,31 @@ if($statement->execute($data))
  );
 
  echo json_encode($output);
+ 
+ $to = "fadliayman10@gmail.com, fadliayman01@gmail.com";
+$subject = "Notification from CSAIL";
+
+$message = "
+<html>
+<head>
+<title>Notification from CSAIL</title>
+</head>
+<body>
+<p><b>this is a notification from CSAIL website.</b> <br/><br/> Someone Inserted information to the website and waiting for your validation, Please <a href='https://www.google.com/'>Clic here</a> to validate the informations.</p>
+<
+</body>
+</html>
+";
+
+// Always set content-type when sending HTML email
+$headers = "MIME-Version: 1.0" . "\r\n";
+$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+
+// More headers
+$headers .= 'From: <fadliayman10@gmail.com>' . "\r\n";
+// $headers .= 'Cc: myboss@example.com' . "\r\n";
+
+mail($to,$subject,$message,$headers);
 }
 // echo "<div class="alert alert-success" role="alert">Good</div>";
 ?>
